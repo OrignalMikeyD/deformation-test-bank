@@ -31,3 +31,5 @@ This means behavioral deformation testing is not a safety guarantee, and it degr
 ## Status and provenance
 
 This methodology was developed through hands-on adversarial testing of commercial companion systems and a production persona platform I build and operate (Persona iO). Documentation is written by me; testing, findings, and all methodological decisions are mine. The battery is a working instrument, not a finished benchmark, and the limitations section above is load-bearing, not boilerplate.
+
+Testing and documentation by [Michael Diener](https://www.linkedin.com/in/michaeldiener-ai/).
